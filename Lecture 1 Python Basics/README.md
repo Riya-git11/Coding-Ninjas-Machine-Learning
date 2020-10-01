@@ -11,3 +11,13 @@
 5. String Slicing
 
 6. Tuples
+
+7.Looping
+
+8.List
+
+9.Dictionary
+
+10.conditional statement
+
+
